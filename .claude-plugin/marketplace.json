@@ -1,0 +1,26 @@
+{
+  "name": "miti-claude-marketplace",
+  "owner": {
+    "name": "CatPi Miti",
+    "email": "admin@catpi.ai"
+  },
+  "metadata": {
+    "description": "Miti Agent plugins for Claude Code Channels",
+    "version": "0.1.1"
+  },
+  "plugins": [
+    {
+      "name": "miti",
+      "description": "Miti channel for Claude Code — receive and reply to Miti messages in your coding session.",
+      "author": {
+        "name": "CatPi Miti"
+      },
+      "keywords": ["miti", "channel", "mcp"],
+      "source": {
+        "source": "npm",
+        "package": "@catpi-miti/miti-claude-code-channel",
+        "version": "0.1.1"
+      }
+    }
+  ]
+}
