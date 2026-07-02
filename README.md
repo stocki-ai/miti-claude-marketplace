@@ -7,7 +7,7 @@ Claude Code plugin marketplace for [Miti](https://www.miti.chat) Agent integrati
 | Marketplace 标识 | `miti-claude-marketplace` |
 | 插件名 | `miti` |
 | npm 包 | [@catpi-miti/miti-claude-code-channel](https://www.npmjs.com/package/@catpi-miti/miti-claude-code-channel) |
-| 当前插件版本 | **0.1.1** |
+| 当前插件版本 | **0.1.2** |
 
 ## 前置条件
 
